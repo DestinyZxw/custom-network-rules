@@ -1,0 +1,2 @@
+# custom-network-rules
+clash 
