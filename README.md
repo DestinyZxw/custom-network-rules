@@ -14,8 +14,8 @@
 2,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list   
 
 #### 待实现
-1,DOMAIN,translate.googleapis.com
-2,store.steampowered.com 
+1,DOMAIN,translate.googleapis.com  
+2,store.steampowered.com   
 ...
 
 参考：  
