@@ -13,4 +13,6 @@
 ##  ini中使用的rules地址，暂不确定具体是在哪个git库中维护  
 2,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list   
 
+参考：
 分流规则格式 https://docs.cfw.lbyczf.com/contents/ui/profiles/rules.html  
+具体配置 https://github.com/Fndroid/clash_for_windows_pkg/issues/2729
