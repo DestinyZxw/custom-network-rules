@@ -7,10 +7,10 @@
 3,远程配置把这个仓库里面的“.ini”结尾的文件地址填上去  
 4,转换导入clash即可  
 
-# ini里添加自己的rules  
-## rules 提供的对应标准集合  
+### ini里添加自己的rules  
+#### 1,rules 提供的对应标准集合  
 1,https://github.com/blackmatrix7/ios_rule_script   
-##  ini中使用的rules地址，暂不确定具体是在哪个git库中维护  
+#### 2,ini中使用的rules地址，暂不确定具体是在哪个git库中维护  
 2,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list   
 
 参考：
