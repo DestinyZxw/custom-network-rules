@@ -9,9 +9,9 @@
 
 ### ini里添加自己的rules  
 #### 1,rules 提供的对应标准集合  
-1,https://github.com/blackmatrix7/ios_rule_script   
+https://github.com/blackmatrix7/ios_rule_script   
 #### 2,ini中使用的rules地址，暂不确定具体是在哪个git库中维护  
-2,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list   
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list   
 
 #### 待实现
 1,DOMAIN,translate.googleapis.com  
